@@ -19,7 +19,7 @@ There currently is no fix to this at the moment.
 
 The versions you need to have
 ` Python 3.8.x `
-` Discord 1.7.x `
+` Discord.py 1.7.x `
 
 Installing required modules
 ` setup.bat `
