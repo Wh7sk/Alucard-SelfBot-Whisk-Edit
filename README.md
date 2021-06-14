@@ -11,15 +11,13 @@ Original Repository
 
 # Note
 
-The snipers are currently disabled/misbahving due to update to Discord Client Gateway.
-Discord.py Events (on_message) DOES NOT work globally, only self. -- This what makes the snipers work.
-There currently is no fix to this at the moment.
+Will be releasing soon.
 
 # Setup
 
 The versions you need to have
 ` Python 3.8.x `
-` Discord.py 1.7.x `
+` Discord.py 1.4.2 `
 
 Installing required modules
 ` setup.bat `
