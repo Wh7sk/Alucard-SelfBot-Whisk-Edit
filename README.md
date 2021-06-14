@@ -29,11 +29,6 @@ After done installing
 # Changelogs
 ## Alucard Selfbot v3.4 - Whisk Edit v1.0
 
-- Currently Disabled
-  - Nitro Sniper
-  - SlotBot Sniper
-  - Privnote Sniper
-  - Giveaway Sniper
 
 - Added
   - Loading screen
@@ -48,4 +43,4 @@ After done installing
   - Mentions in dms
   - Replaced Discord.member -> Discord.user
  
-- Discord.py 1.5.0 -> Discord 1.7.3
+- Discord.py 1.5.0 -> Discord 1.4.2
