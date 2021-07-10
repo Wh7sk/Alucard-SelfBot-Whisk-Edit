@@ -43,4 +43,5 @@ After done installing
   - Mentions in dms
   - Replaced Discord.member -> Discord.user
  
-- Discord.py 1.5.0 -> Discord 1.4.2
+- discord.py 1.5.0 -> discord.py 1.4.2
+- aiohttp 3.7.0 -> aiohttp 3.6.0
