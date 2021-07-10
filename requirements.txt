@@ -1,0 +1,13 @@
+discord.py==1.4.2
+aiohttp==3.6.0
+colorama
+numpy
+requests
+aiohttp
+bs4
+pymongo
+selenium
+pyPrivnote
+gtts
+dnspython
+image
