@@ -1,4 +1,4 @@
-# Alucard Selfbot - Whisk Edit (Unreleased)
+# Alucard Selfbot - Whisk Edit
 Alucard Selfbot v3.4 - Whisk Edit v1.0
 
 <img src="https://media.discordapp.net/attachments/853768615895105538/853768851829293076/unknown.png?width=800&height=494">
@@ -8,10 +8,6 @@ Original Repository
 
 <i>I am not the original of Alucard Selfbot. I am will be updating my version of Alucard aka Whisk Edit from the base version  of Alucard 3.4</i>
 
-
-# Note
-
-Will be releasing soon.
 
 # Setup
 
