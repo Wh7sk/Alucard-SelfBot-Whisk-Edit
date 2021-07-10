@@ -18,6 +18,9 @@ Will be releasing soon.
 The versions you need to have
 ` Python 3.8.x `
 ` Discord.py 1.4.2 `
+` aiohttp 3.6.0 `
+
+These will update or install the required version modules
 
 Installing required modules
 ` setup.bat `
