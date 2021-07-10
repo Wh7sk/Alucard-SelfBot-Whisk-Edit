@@ -22,7 +22,8 @@ Installing required modules
 ` setup.bat `
 
 When you run setup.bat it may ask you to uninstall discord.py and aiohttp, input y or Y
-After uninstallation it reinstall the require module versions
+
+After uninstallation it will reinstall the require module versions
 
 After done installing
 ` run.bat `
