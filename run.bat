@@ -1,3 +1,3 @@
 @echo off
 
-py Alucard-Whisk.py
+python Alucard-Whisk.py
